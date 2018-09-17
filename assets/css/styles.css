@@ -1,0 +1,29 @@
+#promo .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+}
+
+@media (min-width: 576px) {
+  #promo .jumbotron {
+    padding:20px;
+  }
+}
+
+#head {
+  background-color:rgb(224,173,173);
+}
+
+#head {
+}
+
+body {
+  background-color:rgb(165,165,239);
+}
+
+.navbar-brand {
+  font-size:xx-large;
+}
+
